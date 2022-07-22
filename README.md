@@ -1,4 +1,6 @@
 # Note
+This fork only upgrades to react 18
+# Note
 
 This project is now currently maintained by 
 [@ameerthehacker](https://github.com/ameerthehacker), please reach out to him on any issues or help.
